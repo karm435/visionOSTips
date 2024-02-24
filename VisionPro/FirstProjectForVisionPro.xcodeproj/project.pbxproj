@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AE210E8F2B88074C0095F342 /* ToyPlaneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE210E8E2B88074C0095F342 /* ToyPlaneView.swift */; };
 		AED376E02B46640500F9CB8A /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = AED376DF2B46640500F9CB8A /* RealityKitContent */; };
 		AED376E22B46640500F9CB8A /* FirstProjectForVisionProApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED376E12B46640500F9CB8A /* FirstProjectForVisionProApp.swift */; };
 		AED376E42B46640500F9CB8A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED376E32B46640500F9CB8A /* ContentView.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AE210E8E2B88074C0095F342 /* ToyPlaneView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToyPlaneView.swift; sourceTree = "<group>"; };
 		AED376DA2B46640500F9CB8A /* FirstProjectForVisionPro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstProjectForVisionPro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AED376DE2B46640500F9CB8A /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 		AED376E12B46640500F9CB8A /* FirstProjectForVisionProApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstProjectForVisionProApp.swift; sourceTree = "<group>"; };
@@ -42,6 +44,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		AE210E8D2B8807400095F342 /* VolumetricViews */ = {
+			isa = PBXGroup;
+			children = (
+				AE210E8E2B88074C0095F342 /* ToyPlaneView.swift */,
+			);
+			path = VolumetricViews;
+			sourceTree = "<group>";
+		};
 		AED376D12B46640500F9CB8A = {
 			isa = PBXGroup;
 			children = (
@@ -62,6 +72,7 @@
 		AED376DC2B46640500F9CB8A /* FirstProjectForVisionPro */ = {
 			isa = PBXGroup;
 			children = (
+				AE210E8D2B8807400095F342 /* VolumetricViews */,
 				AED376E12B46640500F9CB8A /* FirstProjectForVisionProApp.swift */,
 				AED376F02B466A9200F9CB8A /* GlobeView.swift */,
 				AED376E32B46640500F9CB8A /* ContentView.swift */,
@@ -165,6 +176,7 @@
 			files = (
 				AED376F12B466A9200F9CB8A /* GlobeView.swift in Sources */,
 				AED376F52B4671B300F9CB8A /* AppState.swift in Sources */,
+				AE210E8F2B88074C0095F342 /* ToyPlaneView.swift in Sources */,
 				AED376E42B46640500F9CB8A /* ContentView.swift in Sources */,
 				AED376E22B46640500F9CB8A /* FirstProjectForVisionProApp.swift in Sources */,
 				AED376F32B46713400F9CB8A /* GlobeInformationView.swift in Sources */,

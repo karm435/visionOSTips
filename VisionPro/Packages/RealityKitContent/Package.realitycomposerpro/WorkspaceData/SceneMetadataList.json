@@ -3,6 +3,14 @@
     "objectMetadataList" : [
       [
         "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
         "Root",
         "GridMaterial"
       ],
@@ -14,14 +22,6 @@
         "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
         "Root",
         "Sphere"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
-        "Root"
       ],
       {
         "isExpanded" : true,
@@ -43,7 +43,8 @@
     "objectMetadataList" : [
       [
         "26DBAE76-5DD8-47B6-A085-1B4ADA111097",
-        "Root"
+        "Root",
+        "GridMaterial"
       ],
       {
         "isExpanded" : true,
@@ -61,8 +62,7 @@
       },
       [
         "26DBAE76-5DD8-47B6-A085-1B4ADA111097",
-        "Root",
-        "GridMaterial"
+        "Root"
       ],
       {
         "isExpanded" : true,
@@ -73,6 +73,18 @@
   "34C460AE-CA1B-4348-BD05-621ACBDFFE97" : {
     "objectMetadataList" : [
 
+    ]
+  },
+  "44D326E9-E4B0-4351-A432-14DE0ADFCF9E" : {
+    "objectMetadataList" : [
+      [
+        "44D326E9-E4B0-4351-A432-14DE0ADFCF9E",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
     ]
   },
   "440DE5B4-E4E4-459B-AABF-9ACE96319272" : {
@@ -103,14 +115,6 @@
     "objectMetadataList" : [
       [
         "FE218374-BF19-4412-98FC-E702761ACEFF",
-        "Root"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "FE218374-BF19-4412-98FC-E702761ACEFF",
         "Root",
         "GridMaterial",
         "GridMaterial"
@@ -123,6 +127,14 @@
         "FE218374-BF19-4412-98FC-E702761ACEFF",
         "Root",
         "GridMaterial"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "FE218374-BF19-4412-98FC-E702761ACEFF",
+        "Root"
       ],
       {
         "isExpanded" : true,

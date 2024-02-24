@@ -4,7 +4,7 @@ import RealityKitContent
 
 struct ContentView: View {
     @Environment(\.openWindow) var openWindow
-    
+
     var body: some View {
         VStack {
             Button("Open Globe") {
@@ -13,6 +13,10 @@ struct ContentView: View {
             
             Button("Open Globe Green") {
                 openWindow(id: "volumetricWindow", value: "SceneWithGreen")
+            }
+            
+            Button("Open Toy Plane") {
+               openWindow(id: "toyPlane")
             }
         }
         .padding()
